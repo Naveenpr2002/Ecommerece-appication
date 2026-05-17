@@ -5,16 +5,6 @@
 5. VSCODE
 
 SETUP THE DEJANGO SERVER ( USED COMMANDS IN LINUX ) 
-1. mkdir backend
-   cd backend
-   python -m venv venv
-   source venv/bin/activate
-   pip install django djangorestframework psycopg2-binary pillow
-   django-admin startproject core .
-   python manage.py runserver
-   python manage.py migrate
-   python manage.py runserver
-   python manage.py createsuperuser
-   python manage.py runserver
+mkdir backend // cd backend // python -m venv venv // source venv/bin/activate // pip install django djangorestframework psycopg2-binary // pillow // django-admin startproject core . // python manage.py runserver // python manage.py migrate // python manage.py runserver //python manage.py createsuperuser // python manage.py runserver
 
    
